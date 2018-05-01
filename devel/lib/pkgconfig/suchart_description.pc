@@ -1,0 +1,8 @@
+prefix=/home/neverholiday/ros_workspace/devel
+
+Name: suchart_description
+Description: Description of suchart_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/neverholiday/ros_workspace/devel/lib 
+Requires: 

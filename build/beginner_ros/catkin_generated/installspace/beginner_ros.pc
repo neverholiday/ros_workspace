@@ -1,0 +1,8 @@
+prefix=/home/neverholiday/ros_workspace/install
+
+Name: beginner_ros
+Description: Description of beginner_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/neverholiday/ros_workspace/install/lib 
+Requires: 

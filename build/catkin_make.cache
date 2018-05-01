@@ -1,0 +1,2 @@
+beginner_ros:suchart_description:test
+-DCATKIN_DEVEL_PREFIX=/home/neverholiday/ros_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/neverholiday/ros_workspace/install -G Unix Makefiles
